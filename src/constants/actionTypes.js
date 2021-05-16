@@ -1,0 +1,10 @@
+export const SIGN_UP = "SIGN_UP";
+export const LOGIN = "LOGIN";
+export const LOGOUT = "LOGOUT";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const ERROR = "ERROR";
+export const LOADING = "LOADING";
+export const FETCH_TODOS = "FETCH_TODOS";
+export const CREATE_TODO = "CREATE_TODO";
+export const UPDATE_TODO = "UPDATE_TODO";
+export const DELELTE_TODO = "DELELTE_TODO";
